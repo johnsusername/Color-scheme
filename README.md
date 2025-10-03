@@ -18,22 +18,22 @@
       <td style="background-color:rgb(86,109,126);">marble blue</td>
    </tr>
    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>#C9C0BB</td>
+      <td>#040720</td>
+      <td>#E0E5E5</td>
+      <td>#566D7E</td>
    </tr>
    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>RGB: 201, 192, 187</td>
+      <td>RGB: 4, 7, 32</td>
+      <td>RGB: 224, 229, 229</td>
+      <td>RGB: 86, 109, 126</td>
    </tr>
    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>HSL: 21.43deg, 11.48%, 76.08%</td>
+      <td>HSL: 233.57deg, 77.78%, 7.06%</td>
+      <td>HSL: 180deg, 8.77%, 88.82%</td>
+      <td>HSL: 205.50deg, 18.87%, 41.57%</td>
    </tr>
 </table>
   </body>
