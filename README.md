@@ -5,7 +5,7 @@
     <img src="https://www.publicdomainpictures.net/pictures/650000/velka/golden-iceberg-in-the-arctic-twilig.jpg" 
     alt="golden iceburg"
       width="200px" Height="200px"/>
-    <p><a href="">https://www.publicdomainpictures.net/pictures/650000/velka/golden-iceberg-in-the-arctic-twilig.jpg</a>"link for image"</p>
+    <p><a href="https://www.publicdomainpictures.net/pictures/650000/velka/golden-iceberg-in-the-arctic-twilig.jpg" target="_blank">click here</a></p>
    Which table will this code produce?
 <table>
    <tr>
